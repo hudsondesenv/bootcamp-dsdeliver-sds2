@@ -3,7 +3,6 @@ import './styles.css';
 
 import {ReactComponent as MainImage } from './main.svg';
 
-import Footer from '../Footer';
 
 import {Link} from 'react-router-dom';
 
