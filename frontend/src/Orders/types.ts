@@ -4,5 +4,10 @@ export type Product = {
     prince: number;
     description: string;
     imageUrl: string;
+}
 
+export type OrderLocationdata = {
+    latitude: number;
+    longitude: number;
+    address: string;
 }
