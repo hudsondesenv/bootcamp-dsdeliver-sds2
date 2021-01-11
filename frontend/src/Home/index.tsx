@@ -3,7 +3,6 @@ import './styles.css';
 
 import {ReactComponent as MainImage } from './main.svg';
 
-
 import {Link} from 'react-router-dom';
 
 function Home(){
